@@ -1,13 +1,10 @@
 ## Hello 👋
 
-# About me:
-- I am Aironas <br>
-![ironman (1)](https://github.com/user-attachments/assets/c3dd5fae-896a-4209-acd2-7e450ebf301d)
-- I have a degree in Economics @ Vilnius University
-- I am currently learning Data Analytics @ Turing College
-- Currently working in accounting @ Vinted
+# About me: ![ironman (1)](https://github.com/user-attachments/assets/c3dd5fae-896a-4209-acd2-7e450ebf301d)
+- I’m Aironas — an Economics graduate (cum laude) and Data Analytics student at Turing College, passionate about solving real business problems with data.<br>
+- Currently working in Accounting @ Vinted
 
-### - Learned Skills :
+### Learned Skills :
 - Advanced SQL & Databases
 - Data Visualization Using Tableau
 - Main Analysis Types (Retentions, Cohorts, Churns, Funnels, Customer Segmentation & RFM, A/B Testing)

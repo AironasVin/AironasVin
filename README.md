@@ -1,4 +1,4 @@
-## Hello 👋
+# Hello 👋
 
 # About me: ![ironman (1)](https://github.com/user-attachments/assets/c3dd5fae-896a-4209-acd2-7e450ebf301d)
 - I’m Aironas — an Economics graduate (cum laude) and Data Analytics student at Turing College, passionate about solving real business problems with data.<br>

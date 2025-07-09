@@ -11,8 +11,14 @@
 - Main Analysis Types (Retentions, Cohorts, Churns, Funnels, Customer Segmentation & RFM, A/B Testing)
 - Python for Data Analytics
 - Data Processing with Pandas
-- Data Visualization with Python
 - Regression Analysis
+
+### To be learned in a couple months: 
+- Data Vizualization with Python
+- Project on Cardiovascular Disease Prediction
+- Product Analyst specialization
+- Payments/Monetization Analyst specialization
+- Capstone Project
 
 # Contact Me: 
 If you want to reach out to me about anything - let's connect.
